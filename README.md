@@ -1,7 +1,12 @@
-<h1 align="center">Bikcraft :bike:</h1>
+🚀 Projeto: Bikcraft
 
-- 📂 Desenvolvimento de um website dedicado a bicicletas elétricas, realizado em: https://www.origamid.com/
+📂 Descrição: Desenvolvimento de um website dedicado a bicicletas elétricas.
 
-- ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS e JavaScript.
+🌐 Website: [Origamid](https://www.origamid.com/)
 
-- :eye: Visualize em: https://bikcraft-wg.vercel.app/
+⚙️ Tecnologias Utilizadas:
+   - HTML
+   - CSS
+   - JavaScript
+
+👁️ Visualize o projeto em: [Bikcraft no Vercel](https://bikcraft-wg.vercel.app/)
