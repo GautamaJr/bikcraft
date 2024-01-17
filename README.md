@@ -4,7 +4,7 @@
 
 📂 Descrição: Desenvolvimento de um website dedicado a bicicletas elétricas.
 
-🌐 Website: [Origamid](https://www.origamid.com/)
+🌐 Curso: [Origamid](https://www.origamid.com/)
 
 ⚙️ Tecnologias Utilizadas:
    - HTML
